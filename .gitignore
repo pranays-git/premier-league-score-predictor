@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+data/raw/
+data/processed/epl_features.csv
+data/processed/epl_enhanced_features.csv
+models/xgb_home_goals.joblib
+models/xgb_away_goals.joblib
+outputs/

@@ -1,0 +1,13 @@
+{
+  "feature_columns": [
+    "home_form_points_5",
+    "away_form_points_5",
+    "home_avg_goals_for_5",
+    "away_avg_goals_for_5",
+    "home_avg_goals_against_5",
+    "away_avg_goals_against_5",
+    "elo_difference"
+  ],
+  "training_rows": 4106,
+  "latest_training_match": "2026-09-20"
+}
